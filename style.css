@@ -1,0 +1,17 @@
+.classes {
+  background-color: yellow;
+  font: 20px Arial, sans-serif;;
+}
+div p1 {
+  background-color: red;
+  font: italic small-caps bold 12px/30px Georgia, serif:
+}
+div > p2 {
+  background-color: yellow;
+}
+div + p3 {
+  background-color: green;
+}
+p4:first-child {
+  background-color: orange;
+}
